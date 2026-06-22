@@ -1,4 +1,7 @@
 # Eigen
+
+NOTICE: This project has moved to Codeberg.org <https://codeberg.org/NorthStarUAS>
+
 A port of the Eigen linear algebra library for Arduino
 
 This is a port of Eigen 3.3.7. This library is known to work with Teensy 4.x, Teensy 3.x, Teensy LC, and STM32L4 Ladybug devices.
